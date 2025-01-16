@@ -15,7 +15,7 @@ app.use(cors());
 app.set("view engine", "ejs");
 
 //Modify your URL here
-var hostURL="YOUR URL";
+var hostURL="https://render.com/docs/web-services?_gl=1*lyjq7u*_gcl_au*OTI0NTQ5MDA5LjE3MzM5ODEwNzk.*_ga*NTAwMzQ3NjAuMTczMzk4MDk1OA..*_ga_QK9L9QJC5N*MTczNzAyOTg2MC4zLjAuMTczNzAyOTg2MC42MC4wLjA.#port-binding";
 //TOGGLE for Shorters
 var use1pt=false;
 
